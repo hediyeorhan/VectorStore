@@ -42,7 +42,7 @@ documents = [
 ]
 """
 
-# 2.secenek : dokuman icerigi bir dosyadak yuklenebilir.
+# 2.secenek : dokuman icerigi bir dosyadan yuklenebilir.
 
 file_path = "documents.pdf"
 
